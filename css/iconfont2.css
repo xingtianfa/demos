@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1553848411322'); /* IE9 */
+  src: url('iconfont.eot?t=1553848411322#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPsAAsAAAAACAAAAAOfAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDZIMjATYCJAMMCwgABCAFhG0HORvsBsiemjwJlkTWkDWIgAURp1M88L+///bB07lfSAMgghVUCW+q3GZ1hQJHOSSHNOnt/5qmgEbltapDUgAkD/OPKO1YgmQ9N4V6RswSCLOptbb3otYQUdsb2otHLJpNf02YJYgkQt6Iw2lTfD5QTmNN2tOjLsA4oMDGHjxBCyRBbxi7oCXOJ6AYq0VqTeb8OhRlZrOAcKbHUKCY0ckNmUFTUK/om0G4oqYZd6Ibl4Pvh38WhiYQ1RIw2244NqHD8M+un9Wp3Vm2xyPgT2cBG0TCbCAT9lXadshEwdkyiirLNifWZUGcytPpEPA0Sd36wyMKhDow07vAdBSK/OxyeIl8NRRcNf/hGtfRxB08k/RDzHfL8kSeWMJmU5sDUOB7FOt9WCjwFoJduU2lGl5vPfLzMwhRvk6Ma9/QVho8G2tzQ/n3b0bKuRsgtm8KqQf1eoHBIHz6fvbb5i1kQAV0+OFr+8v6jUqY1ozeVEmHGjlQw3fQCaeHrtqgb+nRil+VAeVX6JZ55Qd10PUv+5QcoiVxK4JKfTWEEkPDGjxtBe3cWSH9ZhuhU7dubSTa/7Ke4q72ivcyV/MTk4MOzx/pCrHsN3y3dn9+fLr6fG5ZDaZayhL+rl6hDZDXMO99uH59esVdIs6Wzrau6Y7LdTkBLz2UjxZxvLxbOnLJd+nZGxXH5PeKvn8roKixZbHrhk72FGxwqXygbWqQEkZC4OmBZkuzk7ZzezslPFlZweqdu+j+SfvELTe3FbGbmvGE8dvbdOaalZUy1Rqmf26uKjQH85Uq+ywgHF+Sw4cpDgB00uPEAIjPY+Sv/I17aztum5hL/osVDsCPV/93B85O1j3UFGH8H8fvmJc1oalPWeE5PMOenEwliCia3O/KhgE/wx3DILEETc6HiBrGIGmaTMzU2aipLEZd03IUs0wNrgyKZYRMBsx0BBD0eUTU4xmSPs/ETP1GzYh/1PWFhGJbGByzMjWcpKweJYVJR3UGrbbAF7aRy2HmKhl1V4nTwoC2SXFiebAzMDgfmSKf4ik6JJNGF48LFKOBh5NgMXLdAMPRwCaN28xxDofagzqrbtSmDXlQtlqMKBjRIdUuZNEEfMIrzsqFz68ihjqXIm7IqbJvIrGEVT7q1KajA3FK5nfKuZVDEg2GLowJSIgFPGgSWIhrBQMorK5lIxrWxhzgDw1pR4VEV1nb8grv/ZZAYU6dAgbBIjiQz7SoSnHOdI/iG6EFAAA=') format('woff2'),
+  url('iconfont.woff?t=1553848411322') format('woff'),
+  url('iconfont.ttf?t=1553848411322') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1553848411322#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-laba:before {
+  content: "\e643";
+}
+
+.icon--xiangpi:before {
+  content: "\e60c";
+}
+
